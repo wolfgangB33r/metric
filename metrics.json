@@ -1,4 +1,4 @@
 {
-    "couchdb.log.compactionfailures" : 0,
-    "couchdb.log.writefailures" : 0
+    "couchdb.log.compactionfailures" : 3,
+    "couchdb.log.writefailures" : 3
 }
