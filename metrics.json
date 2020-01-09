@@ -1,4 +1,3 @@
 {
-    "couchdb.log.compactionfailures" : 0,
-    "couchdb.log.writefailures" : 0
+    "couchdb.log.os.process.error" : 0
 }
