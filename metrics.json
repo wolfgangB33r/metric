@@ -1,6 +1,6 @@
 {
-    "couchdb.log.os.process.error" : 0,
-    "couchdb.log.os.process.crash" : 0,
-    "couchdb.log.os.process.instable" : 0,
-    "couchdb.log.os.process.logerror" : 0
+    "couchdb.log.os.process.error" : 5,
+    "couchdb.log.os.process.crash" : 10,
+    "couchdb.log.os.process.instable" : 7,
+    "couchdb.log.os.process.logerror" : 3
 }
