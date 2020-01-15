@@ -4,5 +4,5 @@
     "couchdb.log.os.process.instable" : 0,
     "couchdb.log.os.process.logerror" : 0,
     "go.log.slowrequests" : 0,
-    "batch.jobs.executionfails" : 0
+    "batch.jobs.executionfails" : 150
 }
