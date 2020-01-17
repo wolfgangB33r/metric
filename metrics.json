@@ -5,5 +5,5 @@
     "couchdb.log.os.process.logerror" : 0,
     "go.log.slowrequests" : 0,
     "batch.jobs.executionfails" : 0,
-    "batch.jobs.throughput" : 0
+    "batch.jobs.throughput" : 97
 }
