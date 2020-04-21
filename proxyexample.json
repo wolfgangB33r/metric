@@ -1,5 +1,5 @@
 {
-    "service.delay.ms" : 5000,
+    "servicedelayms" : 5000,
     "proxy.metric.range.low" : 20,
     "proxy.metric.range.high" : 50
 }
