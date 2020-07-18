@@ -1,6 +1,6 @@
-# metric
-test
+# problem pattern
 
-# Pattern start 
-1. Increase low and high to 90 and 99 5 minutes before
-2. Increase the other two metrics to 4000
+
+# proxymetrics pattern start 
+1. Increase proxy.metric.range.low to 90% and proxy.metric.range.high to 99, 5 minutes before doing 2.
+2. Increase proxydelayms and servicedelayms metrics to 4000
