@@ -1,5 +1,5 @@
 {
-    "proxydelayms" : 10,
+    "proxydelayms" : 4000,
     "servicedelayms" : 10,
     "proxy.metric.range.low" : 90,
     "proxy.metric.range.high" : 99
