@@ -1,5 +1,5 @@
 {
-    "proxydelayms" : 1,
+    "proxydelayms" : 3,
     "proxyreturn" : "200",
     "proxy.metric.range.low" : 90,
     "proxy.metric.range.high" : 99
